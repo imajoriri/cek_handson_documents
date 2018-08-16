@@ -93,6 +93,10 @@ zodiac_signs
 
 https://jp.heroku.com/
 
+## P.39
+
+https://dashboard.heroku.com/apps
+
 ## P.40
 
 https://devcenter.heroku.com/articles/heroku-cli
