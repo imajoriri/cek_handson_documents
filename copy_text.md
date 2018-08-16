@@ -104,7 +104,7 @@ https://devcenter.heroku.com/articles/heroku-cli
 ## P.41
 
 ```
-heroku logs –a Herokuのアプリ名 --tail
+heroku logs -a Herokuのアプリ名 --tail
 ```
 
 ## P.43
