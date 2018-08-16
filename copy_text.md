@@ -16,7 +16,9 @@ https://clova-developers.line.me/
 
 ## P.24
 
+```
 zodiac_signs
+```
 
 ## P.25
 
@@ -56,19 +58,27 @@ zodiac_signs
 
 ## P.29
 
+```
 FortuneIntent
+```
 
 ## P.30
 
+```
 牡牛座の運勢を教えて
+```
 
 ## P.32
 
+```
 zodiac_signs
+```
 
 ## P.34
 
+```
 蟹座を占って
+```
 
 ## P.36
 
@@ -89,11 +99,15 @@ https://devcenter.heroku.com/articles/heroku-cli
 
 ## P.41
 
+```
 heroku logs –a Herokuのアプリ名 --tail
+```
 
 ## P.43
 
+```
 git clone https://github.com/stachibana/cek-handson-fortune.git
+```
 
 ## P.44
 
@@ -105,7 +119,9 @@ git push heroku master
 
 ## P.45
 
+```
 heroku config:set APPLICATION_ID='スキルのExtension ID' -a herokuのアプリ名
+```
 
 ## P.47
 
