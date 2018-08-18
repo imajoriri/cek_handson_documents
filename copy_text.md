@@ -112,4 +112,14 @@ heroku config:set APPLICATION_ID='スキルのExtension ID' -a herokuのアプ�
 
 https://アプリ名.herokuapp.com/clova
 
+## P.50
+
+https://github.com/stachibana/cek-handson-fortune/blob/master/index.js
+
+## P.56
+
+https://clova-developers.line.me/guide/#/Design/Design_Guideline_For_Extension.md#Precautions
+
+
+
 
