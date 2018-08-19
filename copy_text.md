@@ -110,7 +110,9 @@ heroku config:set APPLICATION_ID='スキルのExtension ID' -a herokuのアプ�
 
 ## P.47
 
+```
 https://アプリ名.herokuapp.com/clova
+```
 
 ## P.50
 
