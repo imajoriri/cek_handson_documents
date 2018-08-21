@@ -105,7 +105,7 @@ git push heroku master
 ## P.45
 
 ```
-heroku config:set APPLICATION_ID='スキルのExtension ID' -a herokuのアプリ名
+heroku config:set APPLICATION_ID=スキルのExtensionID -a herokuのアプリ名
 ```
 
 ## P.47
